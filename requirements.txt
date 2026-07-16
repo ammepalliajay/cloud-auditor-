@@ -1,0 +1,9 @@
+typer[all]>=0.9.0
+rich>=13.0.0
+boto3>=1.34.0
+google-cloud-compute>=1.15.0
+google-cloud-monitoring>=2.19.0
+pyyaml>=6.0
+pytest>=8.0.0
+moto[ec2,cloudwatch]>=5.0.0
+pyinstaller>=6.3.0

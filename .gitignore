@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
+.cloud_auditor_last_scan.json
+.cloud_auditor.yaml
+.pytest_cache/
+*.egg-info/
